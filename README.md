@@ -1,9 +1,11 @@
 ### Make your own J.A.R.V.I.S.
 
+```
 Level: Beginner
 Time Estimate: 2 hours (???)
 Topics: What skills are used in this project? What does it cover? Write
 these topics in a comma delimited list.
+```
 
 ###Project Brief - TATI FIX THIS
 
