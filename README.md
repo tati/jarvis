@@ -26,8 +26,8 @@ completely new to Ruby.
    fix this just use Control-C to exit the program)
 
 BONUS:
-5. Use a bash `say` command to use your computer's audio capabilities!
-   (To use bash commands in Ruby just wrap them in back ticks (`)
+Use a bash `say` command to use your computer's audio capabilities!
+   (To use bash commands in Ruby just wrap them in back ticks `\``
 
 ###Additional Resources
 - For an excellent overview of Ruby see [Why's (poignant) Guide to
