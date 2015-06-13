@@ -2,7 +2,7 @@
 
 ```
 Level: Beginner
-Time Estimate: 2 hours (???)
+Time Estimate: 2 hours
 Topics: hashes, strings, if statements, while loops
 ```
 
@@ -39,3 +39,4 @@ Use a bash `say` command to use your computer's audio capabilities!
 ####NOTES:
 - need to add more resources
 - need a code review on the example
+- not sure about time estimate
