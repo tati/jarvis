@@ -27,14 +27,14 @@ completely new to Ruby.
 
 BONUS:
 Use a bash `say` command to use your computer's audio capabilities!
-   (To use bash commands in Ruby just wrap them in back ticks `\``
+   (To use bash commands in Ruby just wrap them in back ticks ```
 
 ###Additional Resources
 - For an excellent overview of Ruby see [Why's (poignant) Guide to
   Ruby](http://mislav.uniqpath.com/poignant-guide/book/)
 
 ###Sample Solution
-[JARVIS 1.0](https://github.com/tati/jarvis/blob/master/initialize.rb)!
+[JARVIS 1.0](https://github.com/tati/jarvis/blob/master/initialize.rb)
 
 ####NOTES:
 - need to add more resources
