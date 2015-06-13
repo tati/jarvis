@@ -27,7 +27,7 @@ completely new to Ruby.
 
 BONUS:
 Use a bash `say` command to use your computer's audio capabilities!
-   (To use bash commands in Ruby just wrap them in back ticks `````
+   (To use bash commands in Ruby just wrap them in back ticks `` ` ``
 
 ###Additional Resources
 - For an excellent overview of Ruby see [Why's (poignant) Guide to
