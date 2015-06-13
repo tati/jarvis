@@ -8,7 +8,7 @@ Topics: hashes, strings, if statements, while loops
 
 ###Project Brief
 You are Tony Stark about to make your very first version of JARVIS (Just A Rather Very Intelligent System)!
-Your personal assistant will greet you, follow commands (such as `burp`!) and say
+Your personal assistant will greet you, follow commands (such as `burp`) and say
 goodbye when you turn them off. Although these initial commands will be
 quite simple, it will be very easy to build this project to add more
 advance features (think of having JARVIS telling you the current weather
